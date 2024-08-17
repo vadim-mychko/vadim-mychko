@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vadim
 
 - 🇨🇿 I live in Prague, Czech Republic
-- 👨‍💻 I'm a computer science student at [Czech Technical University](https://www.fel.cvut.cz/)
+- 👨‍💻 I'm a computer science student at [Czech Technical University](https://www.fel.cvut.cz)
 
 ## 🏫 School Projects
 
