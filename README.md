@@ -1,14 +1,9 @@
 # Hi there 👋 I'm Vadim
 
-**Take a look at my 👉 [Resume](https://raw.githubusercontent.com/vadim-mychko/vadim-mychko/master/resume.pdf)**
-
 - 🇨🇿 I live in Prague, Czech Republic
 - 👨‍💻 I'm a computer science student at [Czech Technical University](https://www.fel.cvut.cz/)
-- ✍️ I'm currently working on my bachelor's thesis
-- 🔍 I'm currently looking for a job
-- ✉️ Reach me at [vadim-mychko@proton.me](mailto:vadim-mychko@proton.me) (or [vadim_mychko@proton.me](mailto:vadim_mychko@proton.me))
 
-## 🏫 My School Projects
+## 🏫 School Projects
 
 ### [AutoDiff.jl](https://github.com/vadim-mychko/AutoDiff.jl)
 
