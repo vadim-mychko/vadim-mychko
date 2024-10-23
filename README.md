@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vadim
+# Hi there 👋
 
 - 🇨🇿 I live in Prague, Czech Republic
 - 👨‍💻 I'm a student at [Czech Technical University](https://oi.fel.cvut.cz)
