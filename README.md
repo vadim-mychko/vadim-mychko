@@ -7,8 +7,9 @@
 
 ### [AutoDiff.jl](https://github.com/vadim-mychko/AutoDiff.jl)
 
-AutoDiff.jl is a Julia package designed for automatic differentiation, enabling efficient and precise gradient computations necessary for a wide range of applications including machine learning, optimization, and numerical analysis.
+AutoDiff.jl is a small Julia library for automatic differentiation, useful for basic gradient computations in machine learning and optimization.
+I made it as a learning project.
 
 ### [Arimaa](https://github.com/vadim-mychko/Arimaa)
 
-Implementation of chess-like game Arimaa written in Java with a graphical user interface. The project allows to load from and save to a predefined PGN format, allows undoing steps and playing against computer or human.
+Implementation of chess-like game Arimaa written in Java with a graphical user interface. The project allows loading from and saving to a predefined Portable Game Format (PGN), allows undoing steps and playing against computer or human.
