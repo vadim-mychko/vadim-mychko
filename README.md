@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - 🇨🇿 I live in Prague, Czech Republic
-- 👨‍💻 I'm a student at [Czech Technical University](https://oi.fel.cvut.cz)
+- 🎓 I'm a student at [Czech Technical University](https://oi.fel.cvut.cz)
 
-## 💼 Projects
+## Projects
 
 ### [AutoDiff.jl](https://github.com/vadim-mychko/AutoDiff.jl)
 
